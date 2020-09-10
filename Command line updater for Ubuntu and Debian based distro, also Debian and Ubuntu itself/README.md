@@ -42,3 +42,5 @@ Read status information... Done
 This script is distributed under the GNU GPL V.3 license. To see the license agreement click on the file called LICENSE.
 
 
+
+P.S: the license agreement with which the material of this folder is distributed is located on the main page, before opening this folder.
